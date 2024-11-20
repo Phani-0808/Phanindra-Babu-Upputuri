@@ -42,4 +42,5 @@ Highlights:
 Preprocessed data and implemented Conv2D, MaxPooling2D, Flatten, Dense, and Activation layers from the Keras library.
 Achieved high accuracy in predicting alphabet images.
 View Source Code (https://github.com/Phani-0808/UROP)
+
 Thank you for visiting my GitHub portfolio! Feel free to explore my projects and connect with me for any queries or collaboration opportunities. 😊
